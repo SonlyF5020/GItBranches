@@ -10,3 +10,4 @@ This is a second description for this feature , let have a look and see what's g
 
 
 This is some new commit from feature branch , which might be conflict with story branch SSZ-555
+This is some additional code change from SSZ-555 , let have a look
